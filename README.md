@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gaurav Adhav</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gaurav2398" alt="gaurav2398" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://gaurav-adhav-portfolio.web.app/](https://gaurav-adhav-portfolio.web.app/)
 
